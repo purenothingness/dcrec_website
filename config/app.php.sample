@@ -1,0 +1,7 @@
+<?php
+
+$config['title'] = "What ever";
+$config['baseurl'] = "http://yourwhatevercon.tld/";
+$config['appurl'] = "http://yourwhatevercon.tld/index.php";
+$config['default_controller'] = "gamelist";
+$config['segment_filter_pattern'] = "/^[\w\d-\.]+$/i";
